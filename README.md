@@ -1,5 +1,13 @@
 
-<h2 align="center">Olá, sou o Andre Felipe dos Santos - Estudante de Desenvolvimento Web na <a href='https://www.betrybe.com/' target='_blank'>Trybe</a></h2>
+Sou apaixonado por tecnologia desde jovem, pois ela me proporciona a oportunidade de usar minha criatividade para entregar soluções para os mais diversos segmentos da sociedade.
+
+Depois de algum tempo trabalhando na área de design pude adquirir um conhecimento multidisciplinar  e empreendedorismo , o que ampliou minha visão sobre negócios e clientes.
+
+Em 2021, vi na Trybe, escola de programação, a oportunidade para realizar minha transição de carreira para a área de Desenvolvimento Web e conseguir aplicar minha multidisciplinariedade e criatividade a uma antiga paixão
+
+Desde então já desenvolvi projetos utilizando HTML, CSS, Javascript, React, Redux, Jest, Tests RTL, NodeJS, Context API, Hooks, Docker, Metodologia Ágeis ( Kanban, Scrum ) e versionamento Git/GIthub.
+
+Tenho como lema de que não importa a direção do vento e sim a posição das velas, dessa forma sempre busco posicionar as velas de uma maneira mais eficiente a cada ano que passa, podendo, assim encarar os desafios como oportunidades de crescimento e de realização.
 <br>
 <div align="center">
   <a href="https://github.com/afstudiox"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=afstudiox&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
