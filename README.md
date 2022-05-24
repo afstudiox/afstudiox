@@ -17,13 +17,6 @@ Desde então já desenvolvi projetos utilizando HTML, CSS, Javascript, React, Re
 Tenho como lema de que não importa a direção do vento e sim a posição das velas, dessa forma sempre busco posicionar as velas de uma maneira mais eficiente a cada ano que passa, podendo, assim encarar os desafios como oportunidades de crescimento e de realização.
 </p>
 
-
-<br>
-<div align="center">
-  <a href="https://github.com/afstudiox"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=afstudiox&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afstudiox&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
 <h3 align="center"> Stacks Developer </h3>
 <div style='display: inline_block' align='center'><br>
   
@@ -36,6 +29,13 @@ Tenho como lema de que não importa a direção do vento e sim a posição das v
   <img align='center' alt='LINUX' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 </div>
+
+<br>
+<div align="center">
+  <a href="https://github.com/afstudiox"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=afstudiox&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afstudiox&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+  
   
 ##
 
