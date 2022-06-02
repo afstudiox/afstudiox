@@ -1,4 +1,3 @@
-
 <h2 align="center">Olá, sou o Andre Felipe dos Santos - Estudante de Desenvolvimento Web na <a href='https://www.betrybe.com/' target='_blank'>Trybe</a></h2>
 
 <p>
