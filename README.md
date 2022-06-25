@@ -1,4 +1,4 @@
-<h2 align='center'>let andreFelipeDosSantos = {  ... designer, webDeveloper  }</a></h2>
+<h2 align='center'>const AndreFelipeDosSantos = {  ... designer, webDeveloper  }</a></h2>
 
 <div style='display: flex'>
   <div align="center">
