@@ -1,4 +1,4 @@
-<h2 align="center">Andre Felipe dos Santos</a></h2>
+<h2 align="center">Andre Felipe dos Santos - Desenvolvedor Web Full Stack</a></h2>
  
 <p>
 Sou apaixonado por tecnologia desde jovem, pois ela me proporciona a oportunidade de usar minha criatividade para entregar soluções para os mais diversos segmentos da sociedade.
