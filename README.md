@@ -1,17 +1,24 @@
-<h2>ANDRE FELIPE DOS SANTOS - DESENVOLVEDOR WEB</a></h2>
- 
-<p font-size="12">
-🪨 Apaixonado por tecnologia desde jovem ( Windows 3.11 )
-</p>
-<p>
-🎯 Visão de design centrada em desenvolver soluções constantes
-</p>
-<p>
-👨🏾‍💻 Profissional em transição de carreira 
-</p>
-</p>
-⛵️ "Não importa a direção do vento e sim a posição das velas"
-</p>
+<h2>Andre Felipe dos Santos = {  ... designer, webDeveloper  }</a></h2>
+<div>
+  <div style='display: inline_block'>
+    teste
+  </div>
+
+  <div>
+    <p font-size="12">
+      ❤️ Apaixonado por tecnologia desde jovem ( Windows 3.11 )
+    </p>
+    <p>
+      🎯 Visão de design centrada em desenvolver soluções constantes
+    </p>
+    <p>
+      👨🏾‍💻 Profissional em transição de carreira 
+    </p>
+    </p>
+      ⛵️ "Não importa a direção do vento e sim a posição das velas"
+    </p>
+  </div>
+</div>
 
 <h3 align="center"> Stacks Developer </h3>
 <div style='display: inline_block' align='center'><br>
