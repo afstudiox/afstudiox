@@ -1,3 +1,7 @@
+<style type="text/css">
+ 
+{text-transform: uppercase}
+
 <h2 align="center">Andre Felipe dos Santos - Desenvolvedor Web</a></h2>
  
 <p font-size="12">
