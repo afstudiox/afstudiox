@@ -1,4 +1,4 @@
-<h2 align='center'>const AndreFelipeDosSantos = {  ... designer, webDeveloper  }</a></h2>
+<h2 align='center'>Andre Felipe dos Santos = {  ... designer, webDeveloper  }</a></h2>
 
 <div style='display: flex'>
   <div align="center">
@@ -22,14 +22,17 @@
 <h3 align="center"> Stacks Developer </h3>
 <div style='display: inline_block' align='center'><br>
   
-  <img align='center' alt='HTML' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img align='center' alt='CSS' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img align='center' alt='JAVASCRIPT' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align='center' alt='GIT' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-  <img align='center' alt='ILLUSTRATOR' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img align='center' alt='PHOTOSHOP' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"  />
-  <img align='center' alt='LINUX' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
+  <img align='center' alt='HTML' src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"/>
+  <img align='center' alt='CSS' src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor"/>
+  <img align='center' alt='JAVASCRIPT' src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
+  <img align='center' alt='REACT' src="https://icongr.am/devicon/react-original.svg?size=40&color=2068ac" />
+  <img align='center' alt='DOCKER' src="https://icongr.am/devicon/docker-original.svg?size=40&color=2068ac" />
+  <img align='center' alt='EXPRESS' src="https://icongr.am/devicon/express-original.svg?size=40&color=2068ac" />
+  <img align='center' alt='ILLUSTRATOR' src="https://icongr.am/devicon/illustrator-plain.svg?size=40&color=ac6b20"/>
+  <img align='center' alt='PHOTOSHOP' src="https://icongr.am/devicon/photoshop-plain.svg?size=40&color=2068ac"  />
+  <img align='center' alt='GIT' src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor"/>
+  <img align='center' alt='GITHUB' src="https://icongr.am/devicon/github-original-wordmark.svg?size=40&color=e8e8e8"/>
+  <img align='center' alt='LINUX' src="https://icongr.am/devicon/linux-original.svg?size=40&color=2068ac" />
 </div>
 
 ##
