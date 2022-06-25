@@ -28,14 +28,26 @@
   <img align='center' alt='REACT' src="https://icongr.am/devicon/react-original.svg?size=40&color=2068ac" />
   <img align='center' alt='DOCKER' src="https://icongr.am/devicon/docker-original.svg?size=40&color=2068ac" />
   <img align='center' alt='EXPRESS' src="https://icongr.am/devicon/express-original.svg?size=40&color=2068ac" />
+  <img align='center' alt='NODE' src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=000000" />
+  <img align='center' alt='NPM' src="https://icongr.am/devicon/npm-original-wordmark.svg?size=40&color=000000" />
+  <img align='center' alt='MYSQL' src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=000000" />
+  <img align='center' alt='VSCODE' src="https://icongr.am/devicon/visualstudio-plain.svg?size=40&color=000000" />
+
+  <img align='center' alt='SLACK' src="https://icongr.am/devicon/slack-original.svg?size=40&color=000000"/>
+  <img align='center' alt='TRELLO' src="https://icongr.am/devicon/trello-plain.svg?size=40&color=2689ba" />
+  
+  <img align='center' alt='GIT' src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor"/>
+  <img align='center' alt='LINUX' src="https://icongr.am/devicon/linux-original.svg?size=40&color=2068ac" />
+  <img align='center' alt='WINDOWS' src="https://icongr.am/devicon/windows8-original.svg?size=40&color=000000" />
+  
   <img align='center' alt='ILLUSTRATOR' src="https://icongr.am/devicon/illustrator-plain.svg?size=40&color=ac6b20"/>
   <img align='center' alt='PHOTOSHOP' src="https://icongr.am/devicon/photoshop-plain.svg?size=40&color=2068ac"  />
-  <img align='center' alt='GIT' src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor"/>
-  <img align='center' alt='GITHUB' src="https://icongr.am/devicon/github-original-wordmark.svg?size=40&color=e8e8e8"/>
-  <img align='center' alt='LINUX' src="https://icongr.am/devicon/linux-original.svg?size=40&color=2068ac" />
 </div>
 
 ##
+
+
+
 
 <br>
 <div align="center">
