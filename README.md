@@ -1,4 +1,4 @@
-<h2 align="center">Olá, sou o Andre Felipe dos Santos - Estudante de Desenvolvimento Web na <a href='https://www.betrybe.com/' target='_blank'>Trybe</a></h2>
+<h2 align="center">Andre Felipe dos Santos</a></h2>
  
 <p>
 Sou apaixonado por tecnologia desde jovem, pois ela me proporciona a oportunidade de usar minha criatividade para entregar soluções para os mais diversos segmentos da sociedade.
