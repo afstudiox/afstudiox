@@ -2,7 +2,7 @@
 
 <div style='display: flex'>
   <div align="center">
-    <p font-size="12">
+    <p>
       ❤️ Apaixonado por tecnologia desde jovem ( Windows 3.11 )
     </p>
     <p>
