@@ -6,7 +6,7 @@
       ❤️ Apaixonado por tecnologia desde jovem ( 1995 )
     </p>
     <p>
-      🎯 Visão de design centrada em desenvolver soluções constantes
+      🎯 Visão de design centrada em desenvolver soluções eficientes
     </p>
     <p>
       👨🏾‍💻 Profissional em transição de carreira 
