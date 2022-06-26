@@ -3,7 +3,7 @@
 <div style='display: flex'>
   <div align="center">
     <p>
-      ❤️ Apaixonado por tecnologia desde jovem ( Windows 3.11 )
+      ❤️ Apaixonado por tecnologia desde jovem ( 1995)
     </p>
     <p>
       🎯 Visão de design centrada em desenvolver soluções constantes
