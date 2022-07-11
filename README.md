@@ -1,4 +1,4 @@
-<img align="right" style="margin-left:50px" src="./avatar.png">
+<img align="right" src="./avatar_new.png">
   
 <div width="70%">
   <h1 align='left'>Andre Felipe dos Santos</h1>
