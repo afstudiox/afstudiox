@@ -1,8 +1,9 @@
 <img align="right" width="300px" style="margin-top:-10px" src="./octocat-1657513923606.png">
-<h2 align='center'>Andre Felipe dos Santos = {  ... designer, webDeveloper  }</a></h2>
+<h2 align='justify'>Andre Felipe dos Santos</h2>
+<h3 align='justify'>{  ... designer, webDeveloper  }</h3>
 
 <div style='display: flex'>
-  <div align="center">
+  <div align="justify">
     <p>
       ❤️ Apaixonado por tecnologia desde jovem ( 1995 )
     </p>
