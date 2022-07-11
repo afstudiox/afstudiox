@@ -11,7 +11,7 @@
       🎯 "O como" - Visão de design centrada em desenvolver soluções eficientes
     </p>
     <p>
-      👨🏾‍💻 "O onde" - Profissional em transição de carreira na [Trybe](https://www.betrybe.com/)
+      👨🏾‍💻 "O onde" - Profissional em transição de carreira na Trybe
     </p>
     </p>
       ⛵️ "O lema" - `"Não importa a direção do vento e sim a posição das velas"`
