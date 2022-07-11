@@ -1,4 +1,4 @@
-<img align="right" width="300px" style="margin-top:-10px" src="./avatar.png">
+<img align="right" width="300px" style="margin-left:50px" src="./avatar.png">
 <h1 align='left'>Andre Felipe dos Santos</h1>
 <h3 align='left'>{  ... designer, webDeveloper  }</h3>
 
