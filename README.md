@@ -1,4 +1,4 @@
-<img align="right" width="500px" style="margin-top:-10px" src="./octocat-1657513923606.png">
+<img align="right" width="300px" style="margin-top:-10px" src="./octocat-1657513923606.png">
 <h2 align='center'>Andre Felipe dos Santos = {  ... designer, webDeveloper  }</a></h2>
 
 <div style='display: flex'>
