@@ -5,16 +5,16 @@
 <div style='display: flex'>
   <div align="justify">
     <p>
-      ❤️ Apaixonado por tecnologia desde jovem ( 1995 )
+      ❤️ "O por que" - Apaixonado por tecnologia desde jovem ( 1995 )
     </p>
     <p>
-      🎯 Visão de design centrada em desenvolver soluções eficientes
+      🎯 "O como" - Visão de design centrada em desenvolver soluções eficientes
     </p>
     <p>
-      👨🏾‍💻 Profissional em transição de carreira 
+      👨🏾‍💻 "O onde" - Profissional em transição de carreira na [Trybe](https://www.betrybe.com/)
     </p>
     </p>
-      ⛵️ "Não importa a direção do vento e sim a posição das velas"
+      ⛵️ "O lema" - `"Não importa a direção do vento e sim a posição das velas"`
     </p>    
   </div>
 </div>
