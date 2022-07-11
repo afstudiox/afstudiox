@@ -1,29 +1,31 @@
-<img align="right" width="300px" style="margin-left:50px" src="./avatar.png">
-<h1 align='left'>Andre Felipe dos Santos</h1>
-<h3 align='left'>{  ... designer, webDeveloper  }</h3>
+<img align="right" style="margin-left:50px" src="./avatar.png">
+  
+<div width="70%">
+  <h1 align='left'>Andre Felipe dos Santos</h1>
+  <h3 align='left'>{  ... designer, webDeveloper  }</h3>
 
 <div style='display: flex'>
   <div left="justify">
-    <p>
-      ❤️ "O por que" - Apaixonado por tecnologia desde jovem ( 1995 )
-    </p>
-    <p>
-      🎯 "O como" - Visão de design centrada em desenvolver soluções eficientes
-    </p>
-    <p>
-      👨🏾‍💻 "O onde" - Empreendedor em transição de carreira para Desenvolvedor web full stack
-    </p>
-    </p>
-      ⛵️ "O lema" - `"Não importa a direção do vento e sim a posição das velas"`
-    </p>    
-  </div>
+  <p>
+  ❤️ "O por que" - Apaixonado por tecnologia desde jovem ( 1995 )
+  </p>
+  <p>
+  🎯 "O como" - Visão de design centrada em desenvolver soluções eficientes
+  </p>
+  <p>
+  👨🏾‍💻 "O onde" - Empreendedor em transição de carreira para Desenvolvedor web full stack
+  </p>
+  </p>
+  ⛵️ "O lema" - `"Não importa a direção do vento e sim a posição das velas"`
+  </p>    
+</div>
+</div>
 </div>
 
 ##
 
 <h3 align="center"> Stacks Developer </h3>
 <div style='display: inline_block' align='center'><br>
-  
   <img align='center' alt='HTML' src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"/>
   <img align='center' alt='CSS' src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor"/>
   <img align='center' alt='JAVASCRIPT' src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
@@ -48,22 +50,16 @@
 
 ##
 
-
-
-
 <br>
 <div align="center">
   <a href="https://github.com/afstudiox"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=afstudiox&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afstudiox&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-
 ##
 
 <div style='display: inline_block' align='center'><br>
-  
   <a href = 'https://wa.me/5527998415708' target = '_blank'> <img height='30px' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
   <a href = 'mailto:afelipes@gmail.com' target = '_blank'> <img width='100px' eight='30px' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
   <a href = 'https://www.linkedin.com/in/afelipes/' target = '_blank'> <img height='30px' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-
 </div>
