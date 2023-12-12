@@ -26,11 +26,25 @@
 
 ## Stacks Developer 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/FF3E3E" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/FF3E3E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/express" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pytest" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/windows" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
 </div>
 
-
+## Stacks Developer 
 ![HTML](https://img.shields.io/badge/HTML5-text?style=for-the-badges&logo=html5&labelColor=CCCCCC&color=3776AB)
 ![CSS](https://img.shields.io/badge/CSS3-text?style=for-the-badges&logo=css3&labelColor=CCCCCC&color=3776AB)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-text?style=for-the-badges&logo=javascript&labelColor=CCCCCC&color=3776AB)
