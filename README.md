@@ -1,51 +1,53 @@
 <img  align="right" margin-left=50px height='300px' src="./avatar_new.png">
+
 <div width="70%">
   <h1 align='left'>Andre Felipe dos Santos</h1>
-  <h3 align='left'>{  ... designer, webDeveloper  }</h3>
+  <h3 align='left'>DESENVOLVEDOR WEB FULLSTACK</h3>
 
-<div style='display: flex'>
-  <div left="justify">
-  <p>
-  ❤️ "O por que" - Apaixonado por tecnologia desde jovem ( 1995 )
-  </p>
-  <p>
-  🎯 "O como" - Visão de design centrada em desenvolver soluções eficientes
-  </p>
-  <p>
-  👨🏾‍💻 "O onde" - Empreendedor em transição de carreira para Desenvolvedor web full stack
-  </p>
-  </p>
-  ⛵️ "O lema" - `"Não importa a direção do vento e sim a posição das velas"`
-  </p>    
-</div>
-</div>
+  <div style='display: flex'>
+    <div left="justify">
+      <p>
+      ❤️ "O por que" - Paixão por tudo que se refera a tecnologia desde o 486SX
+      </p>
+      <p>
+      🎯 "O como" - Aprendizado contínuo com foco em desenvolver soluções eficientes
+      </p>
+      <p>
+      👨🏾‍💻 "O onde" - Em qualquer lugar e em qualquer momento onde exista uma necessidade
+      </p>
+      </p>
+      ⛵️ "O lema" - `"Não importa a direção do vento e sim a posição das velas - Jim Rohn"`
+      </p>    
+    </div>
+  </div>
 </div>
 
-##
+<br />
 
-<h3 align="center"> Stacks Developer </h3>
-<div style='display: inline_block' align='center'><br>
-  <img align='center' alt='HTML' src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"/>
-  <img align='center' alt='CSS' src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor"/>
-  <img align='center' alt='JAVASCRIPT' src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
-  <img align='center' alt='REACT' src="https://icongr.am/devicon/react-original.svg?size=40&color=2068ac" />
-  <img align='center' alt='DOCKER' src="https://icongr.am/devicon/docker-original.svg?size=40&color=2068ac" />
-  <img align='center' alt='EXPRESS' src="https://icongr.am/devicon/express-original.svg?size=40&color=2068ac" />
-  <img align='center' alt='NODE' src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=000000" />
-  <img align='center' alt='NPM' src="https://icongr.am/devicon/npm-original-wordmark.svg?size=40&color=000000" />
-  <img align='center' alt='MYSQL' src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=000000" />
-  <img align='center' alt='VSCODE' src="https://icongr.am/devicon/visualstudio-plain.svg?size=40&color=000000" />
-
-  <img align='center' alt='SLACK' src="https://icongr.am/devicon/slack-original.svg?size=40&color=000000"/>
-  <img align='center' alt='TRELLO' src="https://icongr.am/devicon/trello-plain.svg?size=40&color=2689ba" />
-  
-  <img align='center' alt='GIT' src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor"/>
-  <img align='center' alt='LINUX' src="https://icongr.am/devicon/linux-original.svg?size=40&color=2068ac" />
-  <img align='center' alt='WINDOWS' src="https://icongr.am/devicon/windows8-original.svg?size=40&color=000000" />
-  
-  <img align='center' alt='ILLUSTRATOR' src="https://icongr.am/devicon/illustrator-plain.svg?size=40&color=ac6b20"/>
-  <img align='center' alt='PHOTOSHOP' src="https://icongr.am/devicon/photoshop-plain.svg?size=40&color=2068ac"  />
+## Stacks Developer 
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/FF3E3E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/FF3E3E" />
 </div>
+
+
+![HTML](https://img.shields.io/badge/HTML5-text?style=for-the-badges&logo=html5&labelColor=CCCCCC&color=3776AB)
+![CSS](https://img.shields.io/badge/CSS3-text?style=for-the-badges&logo=css3&labelColor=CCCCCC&color=3776AB)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-text?style=for-the-badges&logo=javascript&labelColor=CCCCCC&color=3776AB)
+![REACT](https://img.shields.io/badge/REACT-text?style=for-the-badges&logo=react&labelColor=CCCCCC&color=3776AB)
+![DOCKER](https://img.shields.io/badge/DOCKER-text?style=for-the-badges&logo=docker&labelColor=CCCCCC&color=3776AB)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-text?style=for-the-badges&logo=express&labelColor=CCCCCC&color=3776AB)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-text?style=for-the-badges&logo=express&labelColor=CCCCCC&color=3776AB)
+![PYTEST](https://img.shields.io/badge/PYTEST-text?style=for-the-badges&logo=pytest&labelColor=CCCCCC&color=3776AB)
+![NODE](https://img.shields.io/badge/NODE-text?style=for-the-badges&logo=nodedotjs&labelColor=CCCCCC&color=3776AB)
+![NPM](https://img.shields.io/badge/NPM-text?style=for-the-badges&logo=npm&labelColor=CCCCCC&color=3776AB)
+![MYSQL](https://img.shields.io/badge/MYSQL-text?style=for-the-badges&logo=mysql&labelColor=CCCCCC&color=3776AB)
+![GIT](https://img.shields.io/badge/GIT-text?style=for-the-badges&logo=git&labelColor=CCCCCC&color=3776AB)
+![GITHUB](https://img.shields.io/badge/GITHUB-text?style=for-the-badges&logo=github&labelColor=CCCCCC&color=3776AB)
+![LINUX](https://img.shields.io/badge/LINUX-text?style=for-the-badges&logo=linux&labelColor=CCCCCC&color=3776AB)
+![WINDOWS](https://img.shields.io/badge/WINDOWS-text?style=for-the-badges&logo=windows&labelColor=CCCCCC&color=3776AB)
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-text?style=for-the-badges&logo=adobeillustrator&labelColor=CCCCCC&color=3776AB)
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-text?style=for-the-badges&logo=adobephotoshop&labelColor=CCCCCC&color=3776AB)
 
 ##
 
