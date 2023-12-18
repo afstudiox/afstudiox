@@ -44,25 +44,6 @@
   <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
 </div>
 
-## Stacks Developer 
-![HTML](https://img.shields.io/badge/HTML5-text?style=for-the-badges&logo=html5&labelColor=CCCCCC&color=3776AB)
-![CSS](https://img.shields.io/badge/CSS3-text?style=for-the-badges&logo=css3&labelColor=CCCCCC&color=3776AB)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-text?style=for-the-badges&logo=javascript&labelColor=CCCCCC&color=3776AB)
-![REACT](https://img.shields.io/badge/REACT-text?style=for-the-badges&logo=react&labelColor=CCCCCC&color=3776AB)
-![DOCKER](https://img.shields.io/badge/DOCKER-text?style=for-the-badges&logo=docker&labelColor=CCCCCC&color=3776AB)
-![EXPRESS](https://img.shields.io/badge/EXPRESS-text?style=for-the-badges&logo=express&labelColor=CCCCCC&color=3776AB)
-![EXPRESS](https://img.shields.io/badge/EXPRESS-text?style=for-the-badges&logo=express&labelColor=CCCCCC&color=3776AB)
-![PYTEST](https://img.shields.io/badge/PYTEST-text?style=for-the-badges&logo=pytest&labelColor=CCCCCC&color=3776AB)
-![NODE](https://img.shields.io/badge/NODE-text?style=for-the-badges&logo=nodedotjs&labelColor=CCCCCC&color=3776AB)
-![NPM](https://img.shields.io/badge/NPM-text?style=for-the-badges&logo=npm&labelColor=CCCCCC&color=3776AB)
-![MYSQL](https://img.shields.io/badge/MYSQL-text?style=for-the-badges&logo=mysql&labelColor=CCCCCC&color=3776AB)
-![GIT](https://img.shields.io/badge/GIT-text?style=for-the-badges&logo=git&labelColor=CCCCCC&color=3776AB)
-![GITHUB](https://img.shields.io/badge/GITHUB-text?style=for-the-badges&logo=github&labelColor=CCCCCC&color=3776AB)
-![LINUX](https://img.shields.io/badge/LINUX-text?style=for-the-badges&logo=linux&labelColor=CCCCCC&color=3776AB)
-![WINDOWS](https://img.shields.io/badge/WINDOWS-text?style=for-the-badges&logo=windows&labelColor=CCCCCC&color=3776AB)
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-text?style=for-the-badges&logo=adobeillustrator&labelColor=CCCCCC&color=3776AB)
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-text?style=for-the-badges&logo=adobephotoshop&labelColor=CCCCCC&color=3776AB)
-
 ##
 
 <br>
