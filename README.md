@@ -24,26 +24,6 @@
 
 <br />
 
-## Stacks Developer 
-<div>
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/react" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/express" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/pytest" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/git" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/github" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/linux" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/windows" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" />
-  <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
-</div>
-
 ##
 
 <br>
