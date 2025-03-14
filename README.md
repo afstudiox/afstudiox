@@ -1,39 +1,39 @@
-<div width="70%">
-  <h1 align='left'>Andre Felipe dos Santos</h1>
-  <h3 align='left'>DESENVOLVEDOR WEB FULLSTACK</h3>
 
-  <div style='display: flex'>
-    <div left="justify">
-      <p>
-      ❤️ "O por que" - Paixão por tudo que se refera a tecnologia desde o 486SX
-      </p>
-      <p>
-      🎯 "O como" - Aprendizado contínuo com foco em desenvolver soluções eficientes
-      </p>
-      <p>
-      👨🏾‍💻 "O onde" - Em qualquer lugar e em qualquer momento onde exista uma necessidade
-      </p>
-      </p>
-      ⛵️ "O lema" - `"Não importa a direção do vento e sim a posição das velas - Jim Rohn"`
-      </p>    
-    </div>
-  </div>
-</div>
+# Andre Felipe dos Santos | Desenvolvedor Full Stack
 
-<br />
+## Sobre mim
 
-##
+Tenho como lema de que não importa a direção do vento e sim a posição das velas da nossa vida, dessa forma, busquei sempre posicionar as velas de uma maneira mais eficiente, buscando oportunidades de entregar valor a sociedade, levando assim meu barco cada vez mais próximo dos meus objetivos.
 
-<br>
-<div align="center">
-  <a href="https://github.com/afstudiox"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=afstudiox&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afstudiox&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+Em 2022, decidi posicionar as velas da minha carreira para a área de Desenvolvimento Web, uma antiga paixão que vem das minhas primeiras experiências profissionais. Para isso me prepararei adiquirindo conhecimentos na Escola de Formação de Tecnologia TRYBE, construindo projetos Fullstack (individual e coletivamente) aplicando tantos minhas hards como soft skills.
 
-##
+Trago também uma bagagem de conhecimentos multidisciplinares em design, gestão e empreendedorismo, fazendo com que eu tenha uma ampla visão sobre negócios e de como entender melhor as necessidades dos clientes, sejam eles internos ou externos.
 
-<div style='display: inline_block' align='center'><br>
-  <a href = 'https://wa.me/5527998415708' target = '_blank'> <img height='30px' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
-  <a href = 'mailto:afelipes@gmail.com' target = '_blank'> <img width='100px' eight='30px' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-  <a href = 'https://www.linkedin.com/in/afelipes/' target = '_blank'> <img height='30px' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-</div>
+
+<a href="https://github.com/afstudiox"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=afstudiox&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afstudiox&layout=compact&langs_count=7&theme=github_dark"/>
+
+## Habilidades
+
+- 💻 Linguagem de Programação: Python, JavaScript
+- 🌐 Web Development: HTML, CSS, TypeScript
+- 📊 Banco de Dados: SQL, MongoDB
+- 🛠️ Frameworks: React, Angular, Express
+- 🎨 Design: Figma, Photoshop, Ilustrator
+- ⚙️ DevOps & Arquitetura: Docker, Node, POO, SOLID
+
+## Educação e Certificações
+
+- 🎓 Multivix - Galileo Global Education: Análise e Desenvolvimento de Sistemas (CST)
+- 🎓 Trybe - Escola de Formação de Tecnologia: Desenvolvimento Web Full Stack
+- 🎓 IDI - Instituto de Desenho Instrucional: Pós Graduação em Design Instrucional
+- 🎓 UVV - Universidade Vila Velha: Graduação em Design de Produto
+- 💻 Coursera: Google Data Analytcs
+- 🌐 Cisco: Cybersecurity Essentials
+- 📚 Google: Educator Level 1 
+
+## Contato
+- 📧 E-mail: afelipes@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/afelipes/
+
+  
