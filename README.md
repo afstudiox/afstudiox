@@ -1,5 +1,3 @@
-<img  align="right" margin-left=50px height='300px' src="./avatar_new.png">
-
 <div width="70%">
   <h1 align='left'>Andre Felipe dos Santos</h1>
   <h3 align='left'>DESENVOLVEDOR WEB FULLSTACK</h3>
